@@ -1,0 +1,5 @@
+schema_version: 1
+
+name: wfly
+execute:
+    - script: install_wfly.sh
